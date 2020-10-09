@@ -1,3 +1,3 @@
-##Smart Factory Project
+## Smart Factory Project
 
-##Semi-Supervised Learning
+## Semi-Supervised Learning
